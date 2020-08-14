@@ -3,4 +3,4 @@
 
 
 # Ignore jupiter checkpoint files
-*checkpoint.ipynb
+.ipynb_checkpoints
