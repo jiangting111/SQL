@@ -1,0 +1,6 @@
+# Ignore Mac system files
+.DS_store
+
+
+# Ignore jupiter checkpoint files
+*.ipynb_checkpoints
